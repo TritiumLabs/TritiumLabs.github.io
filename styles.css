@@ -16,4 +16,12 @@ p{
     color:deeppink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
+    font-weight: bolder;
+}
+a{
+    color: rgb(103, 9, 161);
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    text-decoration:none;
 }
