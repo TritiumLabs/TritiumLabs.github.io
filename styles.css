@@ -6,7 +6,7 @@ body{
     
 }
 main{
-    display:inline;
+    display:grid;
 }
 h1{
     font-family: Georgia, Arial, Helvetica, sans-serif;
@@ -21,7 +21,7 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: bolder;
-    text-align: center;
+    text-align: left;
 }
 a{
     color: rgb(103, 9, 161);
