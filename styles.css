@@ -2,21 +2,26 @@ body{
     background-color:lightpink;
     align-content: center;
     justify-content: center;
-    
+ 
     
 }
-
+main{
+    display: flex;
+}
 h1{
     font-family: Georgia, Arial, Helvetica, sans-serif;
     color: crimson;
     font-size:x-large;
-    text-align: center;
+   
+    position: relative;
+    left: 37%;
 }
 p{
     color:deeppink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: bolder;
+    text-align: center;
 }
 a{
     color: rgb(103, 9, 161);
@@ -24,4 +29,8 @@ a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
     text-decoration:none;
+}
+middle{
+    position: absolute;
+    left: 41.75%;
 }
