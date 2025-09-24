@@ -21,7 +21,6 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: bolder;
-    text-align: left;
 }
 a{
     color: rgb(103, 9, 161);
@@ -29,8 +28,14 @@ a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
     text-decoration:none;
+    text-align: center;
 }
-middle{
-    position: absolute;
-    left: 41.75%;
+.middle{
+    position: fixed;
+    left: 50%;
+    text-align: center;
+}
+ul {
+    display: block;
+
 }
