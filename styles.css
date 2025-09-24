@@ -6,7 +6,7 @@ body{
     
 }
 main{
-    display: flex;
+    display:inline;
 }
 h1{
     font-family: Georgia, Arial, Helvetica, sans-serif;
